@@ -1,0 +1,3 @@
+客户端和服务器通过端口8765进行通信
+telnetClient为客户端
+telnetServer为服务端
